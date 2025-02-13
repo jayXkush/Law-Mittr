@@ -1,4 +1,4 @@
-# LawMittr 🏛️🔗  
+# LawMittr   
 
 ### Your One-Stop Solution for Legal Assistance  
 
