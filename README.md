@@ -45,7 +45,7 @@ LawMittr is a platform where users can **book appointments** with **verified law
 ### 1️⃣ Clone the Repository  
 
 ```sh
-git clone https://github.com/your-username/LawMittr.git
+git clone https://github.com/your-username/Law-Mittr.git
 cd LawMittr
 
 ```
