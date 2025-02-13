@@ -1,4 +1,4 @@
-# LawMittr  
+# LawMittr  https://law-mittr.vercel.app/
 
 LawMittr is a platform designed to simplify legal access for everyone.  
 
