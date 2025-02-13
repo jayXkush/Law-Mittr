@@ -1,22 +1,21 @@
-# LawMittr   https://law-mittr.vercel.app/
+# LawMittr  
 
-### Your One-Stop Solution for Legal Assistance  
-
-LawMittr is an online platform designed to bridge the gap between
-individuals/businesses and legal professionals. We provide a
-seamless experience for scheduling appointments with specialist
-lawyers, understanding complex legal documents, and getting
-instant answers to legal queries.
----
+LawMittr is a platform designed to simplify legal access for everyone.  
 
 ## 🚀 Features  
 
-✅ Direct Appointments – Schedule online/offline meetings with specialist lawyers.
-✅ Transparent Ratings – View lawyer ratings and reviews for informed decisions.
-✅ Document Simplification – Upload legal documents for easy explanations in local language with Indian law provisions.
-✅ AI-Powered Chatbot – Get instant answers to legal questions with relevant law provisions and article numbers.
-✅ Lawyer Registration – Lawyers can join by providing their bar number and certificate.
-✅ Community Support – Share legal experiences anonymously and connect with others. 
+- ✅ **Direct Appointments** – Schedule online/offline meetings with specialist lawyers.  
+- ✅ **Transparent Ratings** – View lawyer ratings and reviews for informed decisions.  
+- ✅ **Document Simplification** – Upload legal documents for easy explanations in local language with Indian law provisions.  
+- ✅ **AI-Powered Chatbot** – Get instant answers to legal questions with relevant law provisions and article numbers.  
+- ✅ **Lawyer Registration** – Lawyers can join by providing their bar number and certificate.  
+- ✅ **Community Support** – Share legal experiences anonymously and connect with others.  
+
+## 📌 About LawMittr  
+
+LawMittr allows users to **schedule appointments** with **specialist lawyers** at **reasonable pricing**. It provides **transparent lawyer ratings** to help users make informed decisions. The **document simplification** feature enables users to upload legal documents for explanations in their local language with **Indian law provisions**.  
+
+Additionally, our **AI-powered chatbot** provides instant legal insights, and the **community support** section fosters anonymous legal discussions and peer connections.  
 
 ---
 
