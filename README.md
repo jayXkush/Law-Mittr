@@ -50,6 +50,6 @@ Additionally, our **AI-powered chatbot** provides instant legal insights, and th
 
 ```sh
 git clone https://github.com/your-username/Law-Mittr.git
-cd LawMittr
+cd Law-Mittr
 
 ```
