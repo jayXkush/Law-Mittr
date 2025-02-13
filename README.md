@@ -2,16 +2,17 @@
 
 ### Your One-Stop Solution for Legal Assistance  
 
-LawMittr is a platform where users can **book appointments** with **verified lawyers** at **reasonable pricing**. It also provides an updated **news & blogs section** to keep users informed about the latest legal trends, along with an **analyze document** feature that helps users understand legal documents in simple language.
-
+LawMittr is a platform where users can schedule online/offline appointments with specialist lawyers at reasonable pricing. It offers transparent ratings and reviews to help users make informed decisions. The platform also includes a document simplification feature, allowing users to upload legal documents for easy explanations in their local language with relevant Indian law provisions. Additionally, an AI-powered chatbot provides instant answers to legal questions, and a community support section enables users to share legal experiences anonymously and connect with others.
 ---
 
 ## 🚀 Features  
 
-- ✅ **Book Appointments** – Easily schedule consultations with verified lawyers at fair prices.  
-- ✅ **Legal News & Blogs** – Stay updated with the latest legal developments and expert opinions.  
-- ✅ **Analyze Documents** – Upload legal notices or documents to get a simplified explanation.  
-- ✅ **User-Friendly Interface** – Seamless navigation and easy access to legal resources.  
+✅ Direct Appointments – Schedule online/offline meetings with specialist lawyers.
+✅ Transparent Ratings – View lawyer ratings and reviews for informed decisions.
+✅ Document Simplification – Upload legal documents for easy explanations in local language with Indian law provisions.
+✅ AI-Powered Chatbot – Get instant answers to legal questions with relevant law provisions and article numbers.
+✅ Lawyer Registration – Lawyers can join by providing their bar number and certificate.
+✅ Community Support – Share legal experiences anonymously and connect with others. 
 
 ---
 
