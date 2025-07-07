@@ -37,12 +37,11 @@ Additionally, our **AI-powered chatbot** provides instant legal insights, and th
 
 ## 🛠️ Tech Stack  
 
-- **Frontend:** Next.js, React.js, Emotion CSS  
+- **Frontend:** ReactJs,Typesript
 - **Backend:** Node.js, Express.js  
-- **Database:** Firebase (Firestore)  
-- **Authentication:** Firebase Auth  
-- **Storage:** Google Cloud Storage  
-- **APIs & Services:** AI-based document analysis  
+- **Database:** Mongodb  
+- **Authentication:** Google Oauth 
+- **APIs & Services:**Gemini Api
 
 ---
 
