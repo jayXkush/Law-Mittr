@@ -23,6 +23,8 @@ Additionally, our **AI-powered chatbot** provides instant legal insights, and th
 
 ![image](https://github.com/user-attachments/assets/1a629689-1390-402e-acb9-888419e4123f)
 ![image](https://github.com/user-attachments/assets/3dbccf7a-92fa-4ea0-842f-16a8f04bc1ac)
+![WhatsApp Image 2025-07-07 at 15 56 00_f078ed37](https://github.com/user-attachments/assets/0a43bfe6-b6c5-4fde-92b9-337fe3af087d)
+
 ![image](https://github.com/user-attachments/assets/66da0c65-bf36-40f5-9d12-d6f59cb43bbb)
 ![image](https://github.com/user-attachments/assets/574d312a-4710-430f-936b-000d95065d38)
 ![image](https://github.com/user-attachments/assets/0b5b107a-14c8-43cd-aec9-531b0ef07ed2)
